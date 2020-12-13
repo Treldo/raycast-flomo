@@ -14,6 +14,14 @@ Clone or download this repo, then add it to your Script Directories.
 
 <https://github.com/raycast/script-commands#install-script-commands>
 
+## Configuration
+
+Use your [API url](https://flomoapp.com/mine?source=incoming_webhook) to change the content at line 24.
+
+```shell
+url='https://flomoapp.com/iwh/xxx/xxxxx'
+```
+
 ## Dependencies
 
 ### jq
